@@ -1,0 +1,15 @@
+img {
+    width: 5rem;
+    border-radius: 1rem;
+}
+.title {
+    color: whitesmoke;
+}
+.header {
+    background-color: black;
+ height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}

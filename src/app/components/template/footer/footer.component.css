@@ -1,0 +1,16 @@
+
+.title {
+    color: whitesmoke;
+    font-size: 0.5rem;
+}
+.footer {
+    background-color: black;
+ height: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+    position: fixed;
+    bottom: 0;
+}
