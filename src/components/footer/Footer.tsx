@@ -1,6 +1,6 @@
 import {Container, Imager, Title} from './style'
 
-export default function Header() {
+export default function Footer() {
 
 
 
@@ -10,8 +10,8 @@ export default function Header() {
         <>
         
         <Container>
-            <Imager  src="src\assets\img.jpg" alt="logo" />
-            <Title>Store Book App</Title>
+            
+            <Title>Desenvolvido por Joel Santos</Title>
 
 
         </Container>
