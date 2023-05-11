@@ -4,12 +4,13 @@ import styled from 'styled-components';
 export const Container = styled.div`
     background-color: black;
     display: flex;
-    margin-top: -5px;
+    margin-top: 5px;
     align-items: center;
     justify-content: center;
-    height: 3vh;
+    margin-bottom: -8px;
+    height: 4vh;
     width: 100%; /* Set the width to 100% to take up the full width of the screen */
-    position: fixed;
+  
     bottom: 0;
 `
 

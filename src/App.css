@@ -1,15 +1,5 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-  height: 100vh;
-  width: 100%;
-  text-align: center;
 
- 
-
-}
-
-body {
-  background: black;
-}

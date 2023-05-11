@@ -11,7 +11,7 @@ export default function Footer() {
         
         <Container>
             
-            <Title>Desenvolvido por Joel Santos</Title>
+            <Title className='text-3xl  font-bold underline '>Desenvolvido por Joel Santos</Title>
 
 
         </Container>
