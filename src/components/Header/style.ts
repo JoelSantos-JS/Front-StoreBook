@@ -2,9 +2,10 @@ import styled from 'styled-components';
 
 
 export const Container = styled.div`
-    background-color: black;
+    background-color: #212529;
     display: flex;
     margin-top: -5px;
+    gap: 25px;
     align-items: center;
     justify-content: center;
     height: 7vh;
@@ -14,7 +15,7 @@ export const Container = styled.div`
 export const Title = styled.h1`
   font-size: 2.5em;
   text-align: center;
-  color: palevioletred;
+  color: whitesmoke;
 `;
 
 
